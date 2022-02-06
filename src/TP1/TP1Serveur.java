@@ -2,7 +2,7 @@ package TP1;
 // Serveur2.java
 import java.io.*;
 import java.net.*;
-public class Serveur {
+public class TP1Serveur {
     public static void main(String argv[]) throws Exception {
 
         /**/

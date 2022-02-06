@@ -6,7 +6,7 @@ import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Serveur2 {
+public class TP2Serveur {
     public static void main(String argv[]) throws Exception {
 
         /**/
