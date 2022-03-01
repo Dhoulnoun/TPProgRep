@@ -1,4 +1,4 @@
-package TP1;
+package TP1.TP1_1;
 // Serveur2.java
 import java.io.*;
 import java.net.*;

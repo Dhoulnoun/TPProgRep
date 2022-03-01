@@ -1,12 +1,12 @@
-package TP3.Serveur;
+package TP1.TP1_3.Serveur;
 
-import TP3.Application.Application;
+import TP1.TP1_3.Application.Application;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Serveur {
+public class ServeurParallel {
     public static void main(String[] argv) {
         ServerSocket ecoute = null;
         try {

@@ -1,4 +1,4 @@
-package TP2;
+package TP1.TP1_2;
 // Serveur parallèle
 
 import java.io.*;
@@ -6,7 +6,7 @@ import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class TP2Serveur {
+public class TP1_2Serveur {
     public static void main(String argv[]) throws Exception {
 
         /**/

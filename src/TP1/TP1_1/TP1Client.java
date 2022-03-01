@@ -1,11 +1,11 @@
-package TP1;
+package TP1.TP1_1;
 
 // Client.java
 
 import java.io.*;
 import java.net.*;
 
-public class Client {
+public class TP1Client {
     public static void main(String argv[]) throws Exception {
         /*Le client se connecte au site donné en premier argument
         et sur un numéro de port donné en deuxième argument*/
